@@ -15,4 +15,3 @@ A comprehensive collection of Spring Framework learning projects organized by to
 - **09-Servlet-Projects/** - Servlet2 (embedded Tomcat example)
 - **10-React-UI/** - React frontend UIs (AllPosts, JOBPORTAL)
 
-> **Cleaned:** Removed empty skeletons (untitled78, DEMO5), broken legacy projects (ServletExample - Webx), non-Spark/Scala test (DEFAULTTEST4), empty scaffold (JAVADEMO), Section 6 non-Boot MVC (unstable deps), and all Eclipse .project/.classpath artifacts.
